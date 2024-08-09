@@ -37,6 +37,6 @@ Para subir o frontend:
 - `npm run dev`
 
 
-### Credenciais do usuário mockado para teste
+## Credenciais do usuário mockado para teste
 email: `teste@email.com`<br>
 senha: `12345`
